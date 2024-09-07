@@ -1,4 +1,4 @@
-## Demo: [Link](https://mr-front-end-dev.github.io/Calculator-of-BMI--EN-CRMS--ReactApp/)
+## Demo: [Link](https://web-fullstack-dev.github.io/Calculator-of-BMI--EN-CRMS--ReactApp/)
 
 # Getting Started with Create React App
 
